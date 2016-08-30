@@ -21,6 +21,7 @@ Download and Insstall Python
 *  Search for the Gene Sequence 
 *  Download the Gene sequence by selecting the "Send" option on the Top Right Corner ( image bellow):
 
-!(Download FASTA File)[https://github.com/ICMC/Computation-Biology/blob/master/GenBank.PNG]
+![image](https://github.com/ICMC/Computation-Biology/blob/master/GenBank.PNG)
+
 
 
