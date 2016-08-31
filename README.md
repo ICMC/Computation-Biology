@@ -17,7 +17,7 @@ Download and Insstall Python
 
 ### Download FASTA Gene Sequence 
 
-*  Go to  (GenBank)[http://www.ncbi.nlm.nih.gov/genbank/]
+*  Go to  [GenBank](http://www.ncbi.nlm.nih.gov/genbank/)
 *  Search for the Gene Sequence 
 *  Download the Gene sequence by selecting the "Send" option on the Top Right Corner ( image bellow):
 
