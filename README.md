@@ -14,6 +14,7 @@ Download and Insstall Python
 ### Download a library to plot graphs 
 
  `pip install plotly`
+ * create an account at [Plotly](https://plot.ly/)
 
 ### Download FASTA Gene Sequence 
 
