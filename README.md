@@ -5,7 +5,7 @@ Bio computation projects
 # How to set up the system
 
 ### Python 3.5 
-Download and Insstall Python 
+Download and Install Python 
 
 ### Install BioPython 
 
